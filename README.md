@@ -5,7 +5,6 @@
 à venir
 
 
-## diato
+## lylipond pour diato
 ****
 à venir
-
