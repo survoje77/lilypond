@@ -1,10 +1,4 @@
 
 # lilypond
-## dépôt partitions
-***
-à venir
-
-
-## lylipond pour diato
-****
-à venir
+## partitions
+Exemples de travaux personnels
