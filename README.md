@@ -1,7 +1,5 @@
 # lilypond
 
 ## Tin whistle
-* foggy dew (ly + pdf)
-
-
+* Foggy dew (ly + pdf)
 
